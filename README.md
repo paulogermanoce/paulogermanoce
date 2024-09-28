@@ -1,4 +1,4 @@
-**paulogermanoce/paulogermanoce** Gerente de projetos graduado em Ciências da computação com especialização em Engenhari de Software Internet.
+**paulogermanoce/paulogermanoce** Gerente de projeto graduado em Ciências da computação com especialização em Engenharia de Software Internet.
 
 Sobre Mim:
 
