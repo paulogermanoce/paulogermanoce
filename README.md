@@ -1,6 +1,6 @@
 ## Olá 👋
 
-<!--
+
 **paulogermanoce/paulogermanoce** Gerente de projetos graduado em Ciências da computação com especialização em Engenhari de Software Internet.
 
 Sobre Mim:
@@ -13,4 +13,4 @@ Sobre Mim:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
