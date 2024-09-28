@@ -31,4 +31,4 @@ Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos
 
 ## Minhas Skills 💻
 #### Desenvolvimento
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-F60?style=for-the-badge&logo=html5)
