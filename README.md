@@ -2,13 +2,13 @@
 
 Sobre Mim:
 - 🔭 Atualmente estou trabalhando no Grupo IMTS
-🌱 Atualmente estou sempre aprendendo
-👯 Estou procurando colaborar nas entregas
-🤔 Estou procurando ajuda em como ser uma pessoa melhor
-💬 Pergunte-me sobre gerenciamento de projetos
-📫 Como chegar até mim: paulogermanoce@gmail.com.br
-😄 Pronomes: Pai, Brother, Macho, Irmão
-⚡ Curiosidade: Diariamente acordo com esta frase: Hoje será um dos melhores dias da minha vida!
+- 🌱 Atualmente estou sempre aprendendo
+- 👯 Estou procurando colaborar nas entregas
+- 🤔 Estou procurando ajuda em como ser uma pessoa melhor
+- 💬 Pergunte-me sobre gerenciamento de projetos
+- 📫 Como chegar até mim: paulogermanoce@gmail.com.br
+- 😄 Pronomes: Pai, Brother, Macho, Irmão
+- ⚡ Curiosidade: Diariamente acordo com esta frase: Hoje será um dos melhores dias da minha vida!
 
 <h2 align="center">
 	Sejam bem vindos!
