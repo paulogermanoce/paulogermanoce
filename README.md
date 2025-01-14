@@ -1,15 +1,14 @@
 **paulogermanoce/paulogermanoce** Gerente de projeto graduado em Ciências da computação com especialização em Engenharia de Software Internet.
 
 Sobre Mim:
-
-- 🔭 I’m currently working on IMTS Group
-- 🌱 I’m currently learning Fulltack
-- 👯 I’m looking to collaborate on delivery
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about projetc management
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando no Grupo IMTS
+🌱 Atualmente estou sempre aprendendo
+👯 Estou procurando colaborar nas entregas
+🤔 Estou procurando ajuda em como ser uma pessoa melhor
+💬 Pergunte-me sobre gerenciamento de projetos
+📫 Como chegar até mim: paulogermanoce@gmail.com.br
+😄 Pronomes: Pai, Brother, Macho, Irmão
+⚡ Curiosidade: Diariamente acordo com esta frase: Hoje será um dos melhores dias da minha vida!
 
 <h2 align="center">
 	Sejam bem vindos!
