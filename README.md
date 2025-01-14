@@ -2,9 +2,8 @@
 
 Sobre Mim:
 - 🔭 Atualmente estou trabalhando no Grupo IMTS
-- 🌱 Atualmente estou sempre aprendendo
+- 🌱 Estou sempre aprendendo
 - 👯 Estou procurando colaborar nas entregas
-- 🤔 Estou procurando ajuda em como ser uma pessoa melhor
 - 💬 Pergunte-me sobre gerenciamento de projetos
 - 📫 Como chegar até mim: paulogermanoce@gmail.com.br
 - 😄 Pronomes: Pai, Brother, Macho, Irmão
